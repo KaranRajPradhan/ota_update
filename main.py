@@ -12,6 +12,7 @@ def start():
     # project = YourProject()
     # ...
     print("In start()")
+    print("new main.py")
 
 
 def boot():
